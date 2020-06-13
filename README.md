@@ -21,5 +21,8 @@ Server!
     addr_from = "" - сюды пишем от какой почты будем получать письма
     password = "" - тут, пароль от почты, что указали сверху
     addr_to = "" - сюде пишем, на какую почту нам будут ссыпаться письма
+    sleep(180) - в скобках указываем время(в секундах), через сколько будут ссыпаться письма, по умолчанию 180 сек.
 
 ![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_1.png)
+![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_2.png)
+
