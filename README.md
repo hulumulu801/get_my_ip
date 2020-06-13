@@ -15,6 +15,10 @@ Server!
   - устанавливаем pip:
   
         sudo apt install python3-pip
+        
+   - скачиваем репозиторий:
+   
+         git clone https://github.com/hulumulu801/get_my_ip.git
     
    - открываем файл get_my_ip.py любым текстовым редактором и изменяем строки:
    
