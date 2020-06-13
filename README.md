@@ -26,4 +26,6 @@ Server!
 ![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_1.png)
 ![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_2.png)
 
-  -**Важно!!! С той почты, с которой будут отправляться письма в настройках аккаунта(вкладка "Безопасность") разрешить доступ "Ненадежные приложения, у которых есть доступ к аккаунту"**
+   **Важно!!! С той почты, с которой будут отправляться письма в настройках аккаунта(вкладка "Безопасность") разрешить доступ "Ненадежные приложения, у которых есть доступ к аккаунту"**
+   
+![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_3.png)
