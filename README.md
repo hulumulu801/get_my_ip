@@ -40,6 +40,6 @@ Server! IP парсится с сайта: https://hidemy.name/ru/ip/
 
   - запускаем install.py(он утановит необходимые библиотеки python и supervisor):
           
-          sudo python3 install.py
+        sudo python3 install.py
 
 # P.S.: После включения ПК/сервака необходимо войти в учетную запись, с которой производились вышеперечисленные действия, иначе supervisor не стартанет
