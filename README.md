@@ -24,7 +24,7 @@ Server! IP парсится с сайта: https://hidemy.name/ru/ip/
          
     - переходим в каталог get_my_ip:
    
-         cd get_my_ip/
+    cd get_my_ip/
     
    - открываем файл get_my_ip.py любым текстовым редактором и пишем в кавычках след.:
    
