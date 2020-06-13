@@ -3,6 +3,5 @@ Server!
 
 # Как установить:
   - устанавливаем git clone:
-    
-      sudo apt install git
+    sudo apt install git
   - 
