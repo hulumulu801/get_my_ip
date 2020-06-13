@@ -21,3 +21,5 @@ Server!
     addr_from = "" - сюды пишем от какой почты будем получать письма
     password = "" - тут, пароль от почты, что указали сверху
     addr_to = "" - сюде пишем, на какую почту нам будут ссыпаться письма
+
+![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_1.png)
