@@ -16,11 +16,13 @@ Server! IP парсится с сайта: https://hidemy.name/ru/ip/
   
         sudo apt install python3-pip
         
+   -**Важно! Путь до скрипта не должен содержать русских букв!!!**
+        
    - скачиваем репозиторий:
    
          git clone https://github.com/hulumulu801/get_my_ip.git
          
-   - переходим в каталог get_my_ip:
+    - переходим в каталог get_my_ip:
    
          cd get_my_ip/
     
