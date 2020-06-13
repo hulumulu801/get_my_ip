@@ -19,6 +19,10 @@ Server!
    - скачиваем репозиторий:
    
          git clone https://github.com/hulumulu801/get_my_ip.git
+         
+   - переходим в каталог get_my_ip:
+   
+          cd get_my_ip/
     
    - открываем файл get_my_ip.py любым текстовым редактором и пишем в кавычках след.:
    
