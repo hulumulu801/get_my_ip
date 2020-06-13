@@ -33,3 +33,7 @@ Server!
    **Важно!!! С той почты, с которой будут отправляться письма в настройках аккаунта(вкладка "Безопасность") разрешить доступ "Ненадежные приложения, у которых есть доступ к аккаунту"**
    
 ![Image alt](https://github.com/hulumulu801/get_my_ip/blob/master/pict/pict_3.png)
+
+  - запускаем install.py(он утановит необходимые библиотеки python и supervisor):
+          
+          sudo python3 install.py
